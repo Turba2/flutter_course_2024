@@ -1,1 +1,13 @@
-A sample command-line application providing basic argument parsing with an entrypoint in `bin/`.
+# Используемый API: Weatherbit API
+
+## Регистрация и получение API-ключа
+
+1. Перейдите на [сайт Weatherbit](https://www.weatherbit.io) для регистрации.
+2. Зарегистрируйтесь и получите бесплатный API-ключ.
+3. После получения ключа скопируйте его.
+
+## Настройка API-ключа
+
+1. Откройте файл `practice_1.dart` в вашем проекте.
+2. Найдите строку, где указано поле для вставки API-ключа
+
